@@ -1,2 +1,4 @@
 memory-profiler==0.61.0
 pandas==2.2.3
+json==2.0.9
+re==2.2.1
